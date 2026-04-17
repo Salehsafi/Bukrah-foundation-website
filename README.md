@@ -45,11 +45,6 @@ The result was a significantly improved website experience with stronger structu
 ### Mobile View
 ![Bukrah Mobile View](images/mobile-view.png)
 
-### Donation Section
-![Bukrah Donation Page](images/donation-page.png)
-
-### Programs Section
-![Bukrah Programs Section](images/programs-section.png)
 
 ## What I Learned
 This project helped me strengthen my skills in responsive design, content structuring, and building practical websites that support real organizational goals.
