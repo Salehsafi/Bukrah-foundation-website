@@ -40,10 +40,10 @@ The result was a significantly improved website experience with stronger structu
 ## Screenshots
 
 ### Homepage
-![Bukrah Homepage](images/Bukarah Foundation.jpeg)
+![Bukrah Homepage](images/BukarahFoundation.jpeg)
 
 ### Mobile View
-![Bukrah Mobile View]()
+![Bukrah Mobile View](images/MobileView.jpeg)
 
 
 ## What I Learned
